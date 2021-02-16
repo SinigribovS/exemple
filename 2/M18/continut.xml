@@ -1,0 +1,22 @@
+﻿<ROOT>
+
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="redStyle16" COLOR="0xCC0000" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="whiteStyle16" COLOR="0xFFFFFF" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+
+	<SECTION ID="textID1" ALIGN="top">
+		  <PARA ALIGN="center">
+			 <TEXT STYLE="medStyle">Urmăreşte mişcarea copilului pe derdeluş. Ce observi?</TEXT>
+		  </PARA>	
+	</SECTION>
+	<SECTION ID="textID2" ALIGN="top">
+		  <PARA ALIGN="center">
+			 <TEXT STYLE="medStyle">De ce s-a oprit sania? Ce s-a întâmplat cu energia pe care a avut-o iniţial?</TEXT>
+		  </PARA>	
+	</SECTION>
+
+</ROOT>

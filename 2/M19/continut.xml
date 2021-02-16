@@ -1,0 +1,141 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyleRed" COLOR="0xCC0000" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />   
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyleWhite16" COLOR="0xFFFFFF" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />   
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+  <SECTION ID="textID1" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle">Variaţia energiei mecanice</TEXT>
+		 <IMG OFFSET="0">deltaE</IMG>
+		 <TEXT STYLE="normalStyle"> a unui corp este egală cu lucrul mecanic al forţelor neconservative</TEXT>
+		 <FTEXT STYLE="normalStyle" SUBSCRIPT="mec">L</FTEXT>
+		 <TEXT STYLE="normalStyle">ce acţionează asupra corpului:</TEXT>
+		 <IMG OFFSET="0">deltaE</IMG>
+		 <TEXT STYLE="normalStyle">=</TEXT>
+		 <FTEXT STYLE="normalStyle" SUBSCRIPT="neconservative">L</FTEXT>
+     </PARA>
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="medStyle">Forţele neconservative</TEXT>
+		 <TEXT STYLE="normalStyle">sunt forţele pentru care lucrul mecanic depinde de drumul parcurs.</TEXT>
+     </PARA>	
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="medStyle">Forţe neconservative:</TEXT>
+		 <TEXT STYLE="normalStyle">forţa de frecare şi forţa de tracţiune.</TEXT>
+     </PARA>	
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="medStyle">Energia mecanică E</TEXT>
+		 <TEXT STYLE="normalStyle">este egală cu suma dintre energia cinetică</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="c">E</FTEXT>
+		 <TEXT STYLE="normalStyle">şi energia potenţială</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="p">E</FTEXT>
+		 <TEXT STYLE="medStyle">: E=</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="c">E</FTEXT>
+		 <TEXT STYLE="medStyle">+</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="p">E</FTEXT>
+     </PARA>		   
+   </SECTION>    
+   
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+  <SECTION ID="helpID1" ALIGN="top" SPACING="10">
+	 <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Vei calcula coeficientul de frecare dintre puc şi gheaţă, folosind teorema de variaţie a energiei.</TEXT>
+     </PARA>
+  
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Alege masa pucului şi loveşte-l cu crosa, selectând tăria loviturii.</TEXT>
+     </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID2" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">De ce s-a oprit pucul ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="3">
+		 <TEXT STYLE="normalStyle16">datorită acţiunii forţei de frecare;</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="3">
+		 <TEXT STYLE="normalStyle16">datorită fileului din poartă;</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="3">
+		 <TEXT STYLE="normalStyle16">datorită greutăţii pucului.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID3" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Teorema de variaţie a energiei mecanice pentru mişcarea pucului până la oprire are expresia (</TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="Ff">L</FTEXT>
+		 <TEXT STYLE="normalStyle16"> - lucrul mecanic al forţei de frecare, </TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="G">L</FTEXT>
+		 <TEXT STYLE="normalStyle16"> - lucrul mecanic al greutăţii)</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID4" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Coeficientul de frecare dintre puc şi gheaţă are expresia</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID5" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Coeficientul de frecare dintre puc şi gheaţă are valoarea</TEXT>
+      </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="massID" ALIGN="top" SPACING="20">
+      <PARA ALIGN="right">
+         <TEXT STYLE="medStyle16">Alege masa pucului:</TEXT>
+	  </PARA>
+   </SECTION>
+   
+   <SECTION ID="corect_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns corect. Continuă.</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+	
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="gresit_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns greşit. Mai incearcă.</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="titluTabel" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyleWhite16">Tabel</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+      
+   <SECTION ID="instructajText" ALIGN="top" TITLE="Instructaj">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Urmăriţi instrucţiunile date de asistent şi răspundeţi la întrebări.</TEXT>
+	  </PARA>
+
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_undo</IMG>		 
+         <TEXT STYLE="normalStyle16">pentru a reiniţializa pasul curent.</TEXT>		 
+	  </PARA>
+	  
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_reset</IMG>		 
+         <TEXT STYLE="normalStyle16">pentru a reiniţializa aplicaţia.</TEXT>		 
+	  </PARA>
+   </SECTION>   
+   
+</ROOT>

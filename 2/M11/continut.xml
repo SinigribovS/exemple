@@ -1,0 +1,30 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Încearcă să nimereşti mărul care se mişcă, folosind arcul cu săgeţi. Apasă pe arc şi mişcă mouse-ul în sus şi în jos pentru a orienta direcţia săgeţii şi apoi dă drumul butonului mouse-ului pentru a lansa săgeata către măr.</TEXT>
+      </PARA>
+	  
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Cum este posibil ca săgeata să "ţâşnească" din arc cu o viteză atât de mare ?</TEXT>
+      </PARA>
+   </SECTION>
+   
+      <SECTION ID="label 01" ALIGN="top" SPACING="10">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16">Forţa elastică</TEXT>
+      </PARA>
+   </SECTION>
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+  
+
+</ROOT>

@@ -1,0 +1,154 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="textID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle">Energia mecanică</TEXT>
+         <TEXT STYLE="normalStyle">a unui corp este egală cu suma dintre energia cinetică şi energia potenţială a corpului.</TEXT>		 
+      </PARA>
+	  
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle">Legea conservării energiei mecanice:</TEXT>
+         <TEXT STYLE="normalStyle">Energia mecanică a unui corp aflat în câmpuri de forţe conservative, se conservă.</TEXT>		 
+      </PARA>
+	  
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle">Forţa conservativă</TEXT>
+         <TEXT STYLE="normalStyle">este forţa pentru care lucrul mecanic nu depinde de drumul parcurs, ci doar de poziţia iniţială şi de poziţia finală a corpului considerat.</TEXT>
+         <TEXT STYLE="medStyle">Exemple de forţe conservative:</TEXT>
+         <TEXT STYLE="normalStyle">forţa gravitaţională, forţa elastică</TEXT>		 
+      </PARA>
+	  
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle">Exemple de forţe neconservative:</TEXT>
+         <TEXT STYLE="normalStyle">forţe de frecare</TEXT>		 
+      </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>   
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>   
+   <SECTION ID="titluTabel" ALIGN="top" SELECTABLE="false">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Tabel</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">La ce înălţime se ridică o bilă aşezată pe resortul comprimat ?</TEXT>
+	  </PARA>   
+   </SECTION>
+
+   <SECTION ID="helpID2" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pentru a răspunde la această întrebare, comprimă întâi resortul, după care alege o bilă şi plaseaz-o pe resortul comprimat.</TEXT>
+      </PARA>
+   </SECTION>
+
+   <SECTION ID="helpID3" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Deblochează resortul şi lasă sistemul liber. Se vor însemna pe rigla gradată poziţia resortului nedeformat</TEXT>
+         <FTEXT STYLE="medStyle16" SUBSCRIPT="0">l</FTEXT>		 
+         <TEXT STYLE="normalStyle16">, respectiv deformat</TEXT>
+		 <TEXT STYLE="medStyle16">l</TEXT>		 
+         <TEXT STYLE="normalStyle16">şi înălţimea maximă la care ajunge bila,</TEXT>		 
+		 <FTEXT STYLE="medStyle16" SUBSCRIPT="max">h</FTEXT>		 
+         <TEXT STYLE="normalStyle16">. Apoi se vor completa valorile în tabel. Eliberaţi resortul după terminarea mişcării.</TEXT>		 
+      </PARA>		 
+   </SECTION>
+
+   <SECTION ID="helpID4" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Repetă experimentul cu aceeaşi bilă, dar pentru comprimări diferite ale resortului şi observă cum depinde înălţimea la care urcă bila.</TEXT>
+      </PARA>
+   </SECTION>
+
+
+   <SECTION ID="helpID5" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Înălţimea la care urcă bila:</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="3">
+         <TEXT STYLE="normalStyle16">creşte o dată cu creşterea comprimării resortului</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="3">
+         <TEXT STYLE="normalStyle16">scade o dată cu creşterea comprimării resortului</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="3">
+         <TEXT STYLE="normalStyle16">nu depinde de comprimarea resortului</TEXT>
+      </PARA>
+   </SECTION>
+
+   
+
+   <SECTION ID="helpID6" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">În ce relaţie se vor afla energiile bilei în poziţia inferioară</TEXT>
+		 <FTEXT STYLE="medStyle16" SUBSCRIPT="1">E</FTEXT>
+         <TEXT STYLE="normalStyle16">şi in poziţia superioară</TEXT>
+		 <FTEXT STYLE="medStyle16" SUBSCRIPT="2">E</FTEXT>
+         <TEXT STYLE="normalStyle16">?</TEXT>
+		 		 		 
+      </PARA>
+	  <PARA ALIGN="justify" TABS="3">
+         <TEXT STYLE="normalStyle16">energia bilei este mai mare atunci când ajunge la înălţimea maximă</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="3">
+         <TEXT STYLE="normalStyle16">energia bilei are aceeaşi valoare</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="3">
+         <TEXT STYLE="normalStyle16">energia bilei scade pe măsură ce bila urcă</TEXT>
+      </PARA>
+   </SECTION>
+
+   
+   <SECTION ID="helpID7" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">În concluzie, se poate spune că energia mecanică a unui corp asupra căruia acţionează forţe elastice şi forţe gravitaţionale se conservă.</TEXT>
+      </PARA>
+   </SECTION>   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="corect_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns corect. Continuă.</TEXT>
+	  </PARA>
+   </SECTION>
+
+   <SECTION ID="gresit_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns greşit. Mai incearcă.</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="instructajText" ALIGN="top" TITLE="Instructaj">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Urmăriţi instrucţiunile date de asistent şi răspundeţi la întrebări. Pentru a trece de la un pas la altul al aplicaţiei apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_next</IMG>
+         <TEXT STYLE="normalStyle16">. Apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_tabel</IMG>		 
+         <TEXT STYLE="normalStyle16">pentru a vizualiza tabelul corespunzător aplicaţiei.</TEXT>		 
+	  </PARA>
+
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_reset</IMG>		 
+         <TEXT STYLE="normalStyle16">pentru a reiniţializa aplicaţia.</TEXT>		 
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+</ROOT>

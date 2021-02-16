@@ -1,0 +1,136 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyle16b" COLOR="0x333333" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   
+      
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="textID1" ALIGN="top">
+   	  <BLOCK ALIGN="top">
+	  	 <BLOCK SIZE="450" ALIGN="left">
+			  <PARA ALIGN="justify">
+				 <TEXT STYLE="medStyle">Legea conservării energiei mecanice:</TEXT>
+				 <TEXT STYLE="normalStyle">Energia mecanică a unui corp asupra căruia acţionează forţe conservative se conservă.</TEXT>
+			  </PARA>		
+		 
+			  <PARA ALIGN="justify">
+				 <TEXT STYLE="medStyle">Energia mecanică E</TEXT>
+				 <TEXT STYLE="normalStyle">a unui corp este egală cu suma dintre energia cinetică</TEXT>
+				 <FTEXT SUBSCRIPT="C" STYLE="medStyle">E</FTEXT>
+				 <TEXT STYLE="normalStyle">şi energia potenţială</TEXT>
+				 <FTEXT SUBSCRIPT="P" STYLE="medStyle">E</FTEXT>
+				 <TEXT STYLE="normalStyle">a corpului considerat:</TEXT>
+				 <TEXT STYLE="medStyle">E = </TEXT>
+				 <FTEXT SUBSCRIPT="C" STYLE="medStyle">E</FTEXT>
+				 <TEXT STYLE="medStyle">+</TEXT>
+				 <FTEXT SUBSCRIPT="P" STYLE="medStyle">E</FTEXT>
+			  </PARA>	
+		 </BLOCK>
+		 
+		 <BLOCK SIZE="30"/>
+
+	  	 <BLOCK SIZE="450" ALIGN="left">
+			  <PARA ALIGN="justify">
+				 <TEXT STYLE="medStyle">Energia cinetică</TEXT>
+				 <IMG>formula1</IMG>
+				 <TEXT STYLE="normalStyle">, unde</TEXT>
+				 <TEXT STYLE="medStyle">m</TEXT>
+				 <TEXT STYLE="normalStyle">este masa corpului şi</TEXT>
+				 <TEXT STYLE="medStyle">v</TEXT>
+				 <TEXT STYLE="normalStyle">este viteza acestuia.</TEXT>
+			  </PARA>		
+			  <PARA ALIGN="justify">
+				 <TEXT STYLE="medStyle">Energia potenţială gravitaţională</TEXT>
+				 <FTEXT STYLE="medStyle" SUBSCRIPT="P">E</FTEXT>				 
+				 <TEXT STYLE="medStyle">=mgh</TEXT>				 
+				 <TEXT STYLE="normalStyle">, unde</TEXT>
+				 <TEXT STYLE="medStyle">m</TEXT>
+				 <TEXT STYLE="normalStyle">este masa corpului,</TEXT>
+				 <TEXT STYLE="medStyle">g</TEXT>
+				 <TEXT STYLE="normalStyle">este acceleraţia gravitaţională, iar</TEXT>
+				 <TEXT STYLE="medStyle">h</TEXT>				 
+				 <TEXT STYLE="normalStyle">este înălţimea la care se află corpul în raport cu suprafaţa Pământului.</TEXT>				 
+			  </PARA>		    
+		 </BLOCK>
+	  </BLOCK>
+   </SECTION> 
+
+   <SECTION ID="alegeViteza" ALIGN="top">   
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16b">Alege viteza [m/s]</TEXT>
+      </PARA>
+   </SECTION>   
+   
+   <SECTION ID="alegeScorbura" ALIGN="top">   
+      <PARA ALIGN="right">
+         <TEXT STYLE="medStyle16b">Alege scorbura:</TEXT>
+      </PARA>
+   </SECTION>   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+  
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Trebuie să umplem cămara cu provizii pentru la iarnă.</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Ajutaţi-l pe Cip să urce cât mai repede proviziile în cămară.</TEXT>
+      </PARA>
+   </SECTION>
+
+   <SECTION ID="helpID2" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Alege scorbura în care Cip trebuie să urce alunele de pădure cu ajutorul butoanelor aflate în partea dreaptă jos.</TEXT>
+      </PARA>
+   </SECTION>
+
+   <SECTION ID="helpID3" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pentru ca alunele de pădure să poată ajunge la scorbură, trebuie ca Cip să imprime acestora o anumită viteză.</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Alege această viteză folosind selectorul de valori de mai jos.</TEXT>
+      </PARA>
+   </SECTION>
+  
+   <SECTION ID="helpID4" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Ura! Cămara este plină. Cu ce viteză a împins Cip fructele?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Energia mecanică a fructelor s-a conservat, neglijând frecările.</TEXT>
+      </PARA>
+   </SECTION>   
+   
+   <SECTION ID="helpID5" ALIGN="top" SPACING="10">
+	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Energia mecanică a fructelor s-a conservat, neglijând frecările. \n Viteza imprimată se poate calcula şi are valoarea:</TEXT>
+      </PARA>
+   </SECTION>  
+   
+    <SECTION ID="helpID6" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Nu ai ales bine viteza! Mai încearcă.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID7" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Bravo! Ai ales bine viteza!</TEXT>
+      </PARA>
+	  
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Continuă să umpli cămara.</TEXT>
+      </PARA>
+   </SECTION>   
+    
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+  
+
+</ROOT>

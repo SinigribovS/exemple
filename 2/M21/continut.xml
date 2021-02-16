@@ -1,0 +1,174 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyle12" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="12" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyleWhite16" COLOR="0xffffff" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />   
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+  <SECTION ID="textID1" ALIGN="top" SPACING="2">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle">Variaţia energiei mecanice</TEXT>
+		 <IMG OFFSET="0">deltaE</IMG>
+		 <TEXT STYLE="normalStyle"> a unui corp este egală cu lucrul mecanic al forţelor neconservative</TEXT>
+		 <FTEXT STYLE="normalStyle" SUBSCRIPT="mec">L</FTEXT>
+		 <TEXT STYLE="normalStyle">ce acţionează asupra corpului:</TEXT>
+		 <IMG OFFSET="0">deltaE</IMG>
+		 <TEXT STYLE="normalStyle">=</TEXT>
+		 <FTEXT STYLE="normalStyle" SUBSCRIPT="neconservative">L</FTEXT>
+     </PARA>
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="medStyle">Forţele neconservative</TEXT>
+		 <TEXT STYLE="normalStyle">sunt forţele pentru care lucrul mecanic depinde de drumul parcurs.</TEXT>
+     </PARA>	
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="medStyle">Forţe neconservative:</TEXT>
+		 <TEXT STYLE="normalStyle">forţa de frecare şi forţa de tracţiune.</TEXT>
+     </PARA>	
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="medStyle">Energia mecanică E</TEXT>
+		 <TEXT STYLE="normalStyle">este egală cu suma dintre energia cinetică</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="c">E</FTEXT>
+		 <TEXT STYLE="normalStyle">şi energia potenţială</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="p">E</FTEXT>
+		 <TEXT STYLE="medStyle">: E=</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="c">E</FTEXT>
+		 <TEXT STYLE="medStyle">+</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="p">E</FTEXT>
+     </PARA>		   
+   </SECTION>  
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="massTruckID" ALIGN="top">
+      <PARA ALIGN="right">
+         <TEXT STYLE="medStyle16">Masa</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   
+   <SECTION ID="engineTruckID" ALIGN="top">
+      <PARA ALIGN="right">
+         <TEXT STYLE="medStyle16">Tracţiune</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   
+   <SECTION ID="distID" ALIGN="top">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle12">Distanţă (km)</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   
+   <SECTION ID="speedID" ALIGN="top">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle12">Viteză (km/h)</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   
+   
+   <SECTION ID="titluTabel" ALIGN="top">
+      <PARA ALIGN="left">
+         <TEXT STYLE="medStyleWhite16">Tabel</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID1" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Maşina se deplasează datorită forţei de tracţiune a motorului. Ce alte forţe acţionează asupra maşinii aflate în mişcare ?</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID2" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Aceste forţe sunt :</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">forţa de frecare şi forţa de tracţiune;</TEXT>
+      </PARA>	
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">forţa de tracţiune, greutatea şi normala;</TEXT>
+      </PARA>	  	  
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">forţa de tracţiune, forţa de frecare, greutatea şi normala.</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   
+   <SECTION ID="helpID3" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Ce forţe neconservative acţionează asupra maşinii ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">forţa de frecare;</TEXT>
+      </PARA>	
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">forţa de frecare şi forţa de tracţiune;</TEXT>
+      </PARA>	  	  
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">greutatea.</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   
+   <SECTION ID="helpID4" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pentru o deplasare a maşinii sub acţiunea forţei de tracţiune, teorema de variaţie a energiei se scrie :</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16"></TEXT>
+      </PARA>	
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16"></TEXT>
+      </PARA>	  	  
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16"></TEXT>
+      </PARA>	  	  
+   </SECTION>
+   
+   <SECTION ID="helpID5" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pentru a determina coeficientul de frecare la alunecare, alege o maşină şi apoi, o valoare a forţei de tracţiune.</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pune maşina în mişcare apăsând butonul</TEXT>
+		 <IMG OFFSET="-6">btn_play</IMG>
+		 <TEXT STYLE="normalStyle16">şi notează viteza atinsă de maşină după ce parcurge o distanţă d.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID6" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Coeficientul de frecare la alunecare are valoarea</TEXT>
+      </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------> 
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="corect_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns corect. Continuă.</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+	
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="gresit_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns greşit. Mai incearcă.</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="instructajText" ALIGN="top" TITLE="Instructaj">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Urmăriţi instrucţiunile date de asistent şi răspundeţi la întrebări.</TEXT>
+	  </PARA>
+
+	  
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_reset</IMG>		 
+         <TEXT STYLE="normalStyle16">pentru a reiniţializa aplicaţia.</TEXT>		 
+	  </PARA>
+   </SECTION>    
+   
+</ROOT>

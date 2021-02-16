@@ -1,0 +1,154 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   
+      
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="textID1" ALIGN="top">
+  	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle">Un sistem fizic poate exercita forţe care efectuează lucru mecanic şi prin schimbarea poziţiei relative a părţilor lui componente. Energia mecanică a unui sistem fizic ale cărui părţi componente interacţionează se numeşte</TEXT>
+         <TEXT STYLE="medStyle">energie potenţială.</TEXT>
+      </PARA>
+	  
+  	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle">Fiecărei stări mecanice a unui sistem fizic, caracterizată printr-o anumită poziţie relativă a părţilor lui componente ce interacţionează, îi corespunde o anumită energie potenţială. Depinzând de poziţia stării sistemului (în care este exprimat),</TEXT>
+         <TEXT STYLE="medStyle">energia potenţială gravitaţională este o mărime de stare.</TEXT>
+      </PARA>
+	  
+  	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle">Dacă un corp se află la o anumită înălţime</TEXT>
+		 <TEXT STYLE="medStyle">h</TEXT>
+         <TEXT STYLE="normalStyle">faţă de nivelul de energie potenţială zero, energia potenţială a</TEXT>		 
+		 <LINK ID="linkID1" STYLE="medStyle">sistemului corp-Pământ</LINK>		 
+         <TEXT STYLE="normalStyle">este:</TEXT>		 		 
+      </PARA>
+	  		 
+  	  <PARA ALIGN="center">		 
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="P(g)">E</FTEXT>		 
+		 <TEXT STYLE="medStyle">= mgh,</TEXT>		 
+      </PARA>
+	  
+  	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle">unde</TEXT>
+		 <TEXT STYLE="medStyle">m = masa corpului</TEXT>
+         <TEXT STYLE="normalStyle">şi</TEXT>		 
+         <TEXT STYLE="medStyle">g = acceleraţia gravitaţională.</TEXT>		 		 
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="linkID1Text" ALIGN="top" SPACING="10" TITLE="Sistemul corp-Pământ">
+  	 <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">În cazul sistemului corp-Pământ, nivelul de energie potenţială zero se alege, de cele mai multe ori, nivelul solului sau nivelul cel mai de jos atins de corp în decursul mişcării acestuia.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="labelID1" ALIGN="top" SPACING="10">
+  	 <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">-- corpul A</TEXT>
+      </PARA>
+   </SECTION>
+   <SECTION ID="labelID2" ALIGN="top" SPACING="10">
+  	 <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">-- corpul B</TEXT>
+      </PARA>
+   </SECTION>
+   <SECTION ID="labelID3" ALIGN="top" SPACING="10">
+  	 <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16">Selectează aplicaţia:</TEXT>
+      </PARA>
+   </SECTION>
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Suspendă corpul A de un fir inextensibil şi deviază firul sub unghiuri din ce în ce mai mari. Ce observi ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">Distanţa parcursă de corpul B după ciocnirea cu A creşte pe măsură ce firul este deviat sub unghiuri din ce în ce mai mari</TEXT>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Distanţa parcursă de corpul B după ciocnirea cu A nu depinde de unghiul sub care este deviat firul</TEXT>
+      </PARA>
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Distanţa parcursă de corpul B după ciocnirea cu A scade pe măsură ce firul este deviat sub unghiuri din ce în ce mai mari</TEXT>
+      </PARA>
+   </SECTION>
+	
+	<SECTION ID="helpID2" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Modifcă înclinarea planului modificând astfel înălţimea de la care coboară corpul A. Ce observi ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">Distanţa parcursă de corpul B după ciocnirea cu A nu depinde de înălţimea de la care coboară corpul A</TEXT>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Distanţa parcursă de corpul B după ciocnirea cu A creşte cu înălţimea de la care coboară corpul A</TEXT>
+      </PARA>
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Distanţa parcursă de corpul B după ciocnirea cu A scade cu înălţimea de la care coboară corpul A</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID3" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Trage corpul A şi lasă-l să cadă pe resort de la înălţimi din ce în ce mai mari. Ce observi ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">Comprimarea resortului este direct poporţională cu înălţimea de la care cade corpul A</TEXT>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Comprimarea resortului nu depinde de înălţimea de la care cade corpul A</TEXT>
+      </PARA>
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Comprimarea resortului este invers poporţională cu înălţimea de la care cade corpul A</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID4" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">În cele trei exemple prezentate, care dintre greutăţile corpurilor a efectuat lucru mecanic ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">greutatea corpului A</TEXT>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">greutatea corpului B</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID5" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Indică corpul asupra căruia nu s-a efectuat lucru mecanic.</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">corpul A</TEXT>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">corpul B</TEXT>
+      </PARA>
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">resortul</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID6" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Sistemul mecanic bilă-Pământ interacţionează. Interacţiunea conduce la schimbarea poziţiei relative a părţilor sistemului.</TEXT>
+      </PARA>
+	  
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Fiecărei stări mecanice a unui sistem fizic, caracterizată printr-o anumită poziţie relativă a părţilor lui componente (care interacţionează) îi corespunde o</TEXT>
+         <TEXT STYLE="normalStyle16">energie potenţială.</TEXT>		 
+      </PARA>
+   </SECTION>
+   
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+  
+
+</ROOT>

@@ -1,0 +1,135 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   
+      
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="textID1" ALIGN="top">
+  	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle">Un sistem fizic poate exercita forţe care efectuează lucru mecanic şi prin schimbarea poziţiei relative a părţilor lui componente. Energia mecanică a unui sistem fizic ale cărui părţi componente interacţionează se numeşte</TEXT>
+         <TEXT STYLE="medStyle">energie potenţială.</TEXT>
+      </PARA>
+	  
+  	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle">Fiecărei stări mecanice a unui sistem fizic, caracterizată printr-o anumită poziţie relativă a părţilor lui componente ce interacţionează, îi corespunde o anumită energie potenţială.</TEXT>
+	  </PARA>
+	  
+  	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle">Un resort comprimat sau destins poate exercita asupra unui corp o forţă ce efectuează lucru mecanic. În timpul destinderii sau comprimării, poziţia spirelor una faţă de alta se modifică. Energia mecanică a resortului deformat se numeşte</TEXT>
+         <TEXT STYLE="medStyle">energie potenţială elastică</TEXT>		 
+         <TEXT STYLE="normalStyle">şi este</TEXT>		 
+         <TEXT STYLE="medStyle">mărime de stare:</TEXT>		 		 
+	  </PARA>
+	  
+  	  <PARA ALIGN="center">
+		 <IMG>formula</IMG>
+	  </PARA>	  
+	  
+  	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle">unde</TEXT>
+         <TEXT STYLE="medStyle">k = constanta elastică a resortului,</TEXT>		 
+         <TEXT STYLE="normalStyle">iar</TEXT>		 
+         <TEXT STYLE="medStyle">x = deformaţia resortului.</TEXT>		 		 
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="labelID3" ALIGN="top" SPACING="10">
+  	 <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Selectează aplcaţia :</TEXT>
+      </PARA>
+   </SECTION>
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Acţionează asupra capetelor arcului în sensul comprimării respectiv destinderii acestuia. Ce observi ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">Arcul tinde să revină la starea initială, poziţia relativă a spirelor modificându-se.</TEXT>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Capetele arcului efectuează mişcări rectilinii şi uniforme.</TEXT>
+      </PARA>
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Capetele arcului efectuează mişcări rectilinii.</TEXT>
+      </PARA>
+   </SECTION>
+	
+	<SECTION ID="helpID2" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Fixează arcul pe suport şi prinde-i la capăt o bilă uşoară. Marchează poziţia iniţială şi deplasează bila pe o distanţă x, în sensul alungirii arcului, şi dă-i drumul. Ce observi ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">Bila va efectua o mişcare de "dute-vino", de o parte şi de alta a poziţiei de repaus.</TEXT>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Bila va efectua o mişcare rectilinie pe verticală.</TEXT>
+      </PARA>
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Bila va efectua o mişcare rectilinie uniformă.</TEXT>
+      </PARA>
+   </SECTION>
+
+	 <SECTION ID="helpID3" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Deplasează bila, producând deformări din ce în ce mai mari arcului. Urmăreşte mişcarea bilei şi apreciază viteza cu care trece prin poziţia de echilibru. Ce poţi constata ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">Viteza bilei în poziţia de echilibru este cu atât mai mare cu cât deformarea iniţială a resortului este mai mare.</TEXT>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Viteza bilei în poziţia de echilibru nu depinde de deformarea iniţială a resortului.</TEXT>
+      </PARA>
+   </SECTION>
+   
+     <SECTION ID="helpID4" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Aşează acum corpul în contact cu resortul orizontal, la capătul liber. Observă starea de repaus a corpului.</TEXT>
+      </PARA>
+   </SECTION>
+   
+    <SECTION ID="helpID5" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Comprimă resortul, producându-i o deformaţie x, şi apoi lasă-l liber şi urmăreşte deplasarea corpului. Ce observi ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">La destindere, resortul exercită asupra corpului o forţă, deplasându-l.</TEXT>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">La destindere, resortul deplasează corpul, producându-i o mişcare rectilinie şi uniformă.</TEXT>
+      </PARA>
+   </SECTION>
+   
+    <SECTION ID="helpID6" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Comprimă resortul din ce în ce mai mult şi urmăreşte mişcarea corpului la destinderea resortului. Ce observi ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">Corpul va parcurge distanţe din ce în ce mai mari.</TEXT>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Distanţa parcursă de bilă nu depinde de comprimarea resortului.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID7" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Concluzie:</TEXT>
+      </PARA>
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">În timpul destinderii arcului, poziţia spirelor, una faţă de alta, se modifică.</TEXT>
+      </PARA>
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Energia mecanică a resortului comprimat este energie potenţială de tip elastic.</TEXT>
+      </PARA>
+   </SECTION>
+   
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+  
+
+</ROOT>

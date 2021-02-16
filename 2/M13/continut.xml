@@ -1,0 +1,343 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyle16grey" COLOR="0x999999" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />   
+   <STYLE NAME="medStyleWhite16" COLOR="0xffffff" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+
+   <SECTION ID="textID1" ALIGN="center">
+      <PARA ALIGN="justify">
+		 <TEXT STYLE="medStyle">Teorema de variaţie a energiei potenţiale gravitaţionale:</TEXT>	  
+		 <TEXT STYLE="normalStyle">Diferenţa dintre energia potenţială corespunzătoare stării iniţiale</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="P(A)">E</FTEXT>
+		 <TEXT STYLE="normalStyle">şi energia potenţială corespunzătoare stării finale</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="P(B)">E</FTEXT>
+		 <TEXT STYLE="normalStyle">este egală cu lucrul mecanic efectuat de greutatea corpului în timpul deplasarii acestuia între cele două poziţii:</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="P(i)">E</FTEXT>
+		 <TEXT STYLE="medStyle">--</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="P(f)">E</FTEXT>
+		 <TEXT STYLE="medStyle">=</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="G">L</FTEXT>
+		 <TEXT STYLE="normalStyle">.</TEXT>		 
+      </PARA>
+   </SECTION>
+
+   <SECTION ID="textID2" ALIGN="center">
+      <PARA ALIGN="justify">
+		 <TEXT STYLE="medStyle">Teorema de variaţie a energiei potenţiale elastice:</TEXT>	  
+		 <TEXT STYLE="normalStyle">Variaţia energiei potenţiale elastice a resortului, între două stări ale acestuia, iniţială şi finală, este egală cu lucrul mecanic efectuat de forţa elastică (între stările respective), cu semn schimbat:</TEXT>
+		 <IMG OFFSET="-8">formula_EP</IMG>
+		 <TEXT STYLE="normalStyle">.</TEXT>		 
+      </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="titluTabel" ALIGN="top" SELECTABLE="false">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyleWhite16">Tabel</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="but1Text" ALIGN="top">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16">Tabel</TEXT>       
+      </PARA>	  	  
+   </SECTION>
+
+   <SECTION ID="but1Text_grey" ALIGN="top">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16grey">Tabel</TEXT>       
+      </PARA>	  	  
+   </SECTION>
+   
+   <SECTION ID="but2Text" ALIGN="top">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16">Grafic F(x)</TEXT>       
+      </PARA>	  	  
+   </SECTION>
+
+   <SECTION ID="but2Text_grey" ALIGN="top">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16grey">Grafic F(x)</TEXT>       
+      </PARA>	  	  
+   </SECTION>
+   
+   <SECTION ID="but3Text" ALIGN="top">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16">Grafic Fe(x)</TEXT>       
+      </PARA>	  	  
+   </SECTION>
+   
+   <SECTION ID="but3Text_grey" ALIGN="top">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16grey">Grafic Fe(x)</TEXT>       
+      </PARA>	  	  
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="experimenteID" ALIGN="top" SPACING="10">
+   	<PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Selectează aplicaţia :</TEXT>
+      </PARA>
+   </SECTION>    
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="textID1" ALIGN="top" SPACING="10">
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="labelID3" ALIGN="top" SPACING="10">
+  	 <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Selectează aplicaţia :</TEXT>
+      </PARA>
+   </SECTION>
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Fixează înclinarea planului şi aşează corpul pe plan, la înălţimea</TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="1">h</FTEXT>
+		 <TEXT STYLE="normalStyle16">. Ce forţe acţionează asupra corpului ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">Greutatea</TEXT>
+		 <IMG OFFSET="-10">vect_G</IMG>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Forţa de frecare</TEXT>
+		 <IMG OFFSET="-10">vect_Ff</IMG>
+      </PARA>
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Reacţiunea planului</TEXT>
+		 <IMG OFFSET="-10">vect_N</IMG>		 
+      </PARA>
+   </SECTION>
+	
+	<SECTION ID="helpID2" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Sub acţiunea cărei forţe corpul coboară pe plan ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">Sub acţiunea componentei normale a greutăţii,</TEXT>
+		 <IMG OFFSET="-10">vect_Gn</IMG>		 
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Sub acţiunea componentei tangenţiale a greutăţii,</TEXT>
+		 <IMG OFFSET="-10">vect_Gt</IMG>		 
+      </PARA>
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Sub acţiunea forţei normale,</TEXT>
+		 <IMG OFFSET="-10">vect_N</IMG>		 		 
+      </PARA>
+   </SECTION>
+
+   <SECTION ID="helpID3" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Care dintre forţele identificate efectuează lucru mecanic la coborârea corpului pe plan ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">Componenta normală a greutăţii</TEXT>
+		 <IMG OFFSET="-10">vect_Gn</IMG>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Componenta tangenţială a greutăţii</TEXT>
+		 <IMG OFFSET="-10">vect_Gt</IMG>
+      </PARA>
+	  <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">Forţa de apăsare normală pe plan</TEXT>
+		 <IMG OFFSET="-10">vect_N</IMG>		 
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID4" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Lucrul mecanic al greutăţii, pentru o deplasare a corpului între punctele A şi B situate la distanţa</TEXT>
+		 <IMG OFFSET="-7">delta_x</IMG>		 
+		 <TEXT STYLE="normalStyle16">pe planul înclinat, are expresia:</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+		 <IMG OFFSET="-7">formula1</IMG>		       
+	  </PARA>	  
+	  <PARA ALIGN="justify" TABS="4">
+		 <IMG OFFSET="-7">formula2</IMG>		       
+	  </PARA>	  
+	  <PARA ALIGN="justify" TABS="4">
+		 <IMG OFFSET="-7">formula3</IMG>
+	  </PARA>	  
+   </SECTION>
+   
+   <SECTION ID="helpID5" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Exprimând lucrul mecanic al greutăţii în funcţie de diferenţa de nivel</TEXT>
+		 <IMG OFFSET="-7">delta_h</IMG>		 		 
+		 <TEXT STYLE="normalStyle16">pe verticală, între cele două puncte, obţinem :</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+		 <IMG OFFSET="-7">formula4</IMG>		       
+	  </PARA>	  
+	  <PARA ALIGN="justify" TABS="4">
+		 <IMG OFFSET="-7">formula5</IMG>		       
+	  </PARA>	  
+	  <PARA ALIGN="justify" TABS="4">
+		 <IMG OFFSET="-7">formula6</IMG>
+	  </PARA>	  
+   </SECTION>
+   
+   <SECTION ID="helpID6" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">În timpul coborârii corpului pe plan, poziţia sa în raport cu Pamântul :</TEXT>
+      </PARA>
+	  <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">se modifică cu</TEXT>
+		 <IMG OFFSET="-7">delta_h</IMG>		 		 		 
+      </PARA>
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">nu se modifică</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID7" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Faţă de nivelul de referinţă arbitrar ales, orizontal, în urma deplasării corpului între punctele A şi B, înălţimea la care se află corpul:</TEXT>
+      </PARA>
+	  <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">scade cu</TEXT>
+		 <IMG OFFSET="-7">delta_h</IMG>		 		 		 
+      </PARA>
+	  <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">rămâne neschimbată;</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID8" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Asociind stărilor iniţială şi finală o mărime de stare proporţională cu înălţimea h (faţă de un sistem de referinţă arbitrar ales) şi cu greutatea, notată</TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="Pg">E</FTEXT>
+		 <TEXT STYLE="normalStyle16">, atunci, lucrul mecanic al greutăţii, între cele două stări, poate fi scris :</TEXT>
+      </PARA>
+	  <PARA ALIGN="left" TABS="4">
+		 <IMG OFFSET="-7">formula7</IMG>		 		 		 
+      </PARA>
+	  <PARA ALIGN="left" TABS="4">
+		 <IMG OFFSET="-7">formula8</IMG>
+      </PARA>
+	  <PARA ALIGN="left" TABS="4">
+		 <IMG OFFSET="-7">formula9</IMG>		 		 		 
+      </PARA>
+   </SECTION>
+   
+   
+   <SECTION ID="helpID9" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Concluzie:</TEXT>
+      </PARA>
+   
+      <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Când un corp se află la înalţimea h faţă de nivelul de energie potenţială zero, energia potenţială a sistemului corp-Pământ este:</TEXT>
+	  </PARA>
+	  
+      <PARA ALIGN="center">
+		 <FTEXT STYLE="medStyle16" SUBSCRIPT="P">E</FTEXT>
+		 <TEXT STYLE="medStyle16">= mgh</TEXT>
+      </PARA>
+	  
+      <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">unde m = masa corpului, iar g = acceleraţia gravitaţională.</TEXT>
+      </PARA>
+	</SECTION>
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+  <SECTION ID="helpID10" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">În sistemul alăturat, ai la dispoziţie un resort fixat orizontal la un capăt, având lungimea iniţială</TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="0">l</FTEXT>
+		 <TEXT STYLE="normalStyle16">. Acţionează cu o forţă orizontală</TEXT>
+		 <IMG OFFSET="-11">vect_F</IMG>
+		 <TEXT STYLE="normalStyle16">(aplicată la capătul liber) asupra resortului. Poţi spune că:</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">resortul se deformează, sub acţiunea forţei</TEXT>
+		 <IMG OFFSET="-11">vect_F</IMG>		 
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">poziţia relativă a spirelor se modifică</TEXT>
+      </PARA>
+	  <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">resortul este în echilibru, sub acţiunea forţelor deformatoare şi elastică.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID11" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Acum îndepărtează acţiunea forţei</TEXT>
+		 <IMG OFFSET="-11">vect_F</IMG>		 
+         <TEXT STYLE="normalStyle16">, lăsând resortul liber. Ce se întâmplă ?</TEXT>		 
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">resortul revine la forma iniţială, sub acţiunea forţei elastice</TEXT>
+      </PARA>	  
+      <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">poziţia relativă a spirelor se modifică</TEXT>
+      </PARA>
+	  <PARA ALIGN="left" TABS="4">
+         <TEXT STYLE="normalStyle16">forţa elastică</TEXT>
+		 <IMG OFFSET="-11">vect_Fe</IMG>
+		 <TEXT STYLE="normalStyle16">efectuează lucru mecanic</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID12" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pentru mai multe valori ale forţei deformatoare</TEXT>
+		 <IMG OFFSET="-11">vect_Fi</IMG>
+		 <TEXT STYLE="normalStyle16">, notează în tabelul alăturat deformaţiile</TEXT>
+		 <IMG OFFSET="-6">delta_xi</IMG>		 
+		 <TEXT STYLE="normalStyle16">şi reprezintă grafic, atât dependenţa forţei deformatoare F(x), cât şi dependenţa forţei elastice</TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="e">F</FTEXT>
+		 <TEXT STYLE="normalStyle16">(x).</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID13" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pentru o deformare a resortului, cuprinsă între</TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="1">x</FTEXT>
+		 <TEXT STYLE="normalStyle16">şi</TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="2">x</FTEXT>
+		 <TEXT STYLE="normalStyle16">, calculează lucrul mecanic al forţei elastice, ca fiind aria suprafeţei delimitate de graficul forţei, axa Ox şi paralelele duse la OF prin</TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="1">x</FTEXT>
+		 <TEXT STYLE="normalStyle16">şi</TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="2">x</FTEXT>
+		 <TEXT STYLE="normalStyle16">. Ce ai obţinut ?</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID14" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Asociind resortului deformat o mărime fizică scalară, de stare, proporţională cu pătratul deformaţiei acestuia şi cu constanta de elasticitate k, numită energie potenţială elastică, putem observa că :</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">lucrul mecanic al forţei elastice este egal cu variaţia energiei potenţiale a resortului;</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">lucrul mecanic al forţei elastice este egal cu variaţia energiei potenţiale elastice, cu semn schimbat;</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">lucrul mecanic al forţei elastice este egal cu media aritmetică a energiilor potenţiale elastice, corespunzătoare celor două stări.</TEXT>
+      </PARA>			
+   </SECTION>
+   
+   <SECTION ID="helpID15" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Concluzii :</TEXT>
+		 <TEXT STYLE="normalStyle16">Fiecărei stări mecanice a unui resort deformat, caracterizată printr-o anumnită poziţie relativă a spirelor acestuia, îi corespunde o anumită energie potenţială, numită energie potenţială elastică:</TEXT>
+      </PARA>
+	  
+      <PARA ALIGN="center">	  
+	  	 <IMG>formula_EPkx</IMG>
+      </PARA>	  
+	</SECTION>
+</ROOT>
