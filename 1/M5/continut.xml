@@ -1,0 +1,26 @@
+﻿<ROOT>
+     
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="normalStyle16red" COLOR="0xCC0000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+     
+<!--------------------------------------------------------------------------------------------------------------------------------->   
+   <SECTION ID="textID1" ALIGN="top">  	  	  
+	  <PARA ALIGN="center"> 
+		  <TEXT STYLE="medStyle">Priviţi cu atenţie animaţia alăturată şi încercaţi să explicaţi înaintarea bărcii sau mişcarea paletelor morii de vânt.</TEXT>
+      </PARA>	
+	  <PARA ALIGN="center"> 
+		  <TEXT STYLE="medStyle">Ce se întâmplă cu acestea la intensificarea vântului?</TEXT>
+      </PARA>	  	  
+ </SECTION> 	
+   
+   <SECTION ID="instructajText" ALIGN="top" TITLE="Instructaj">
+	  <PARA ALIGN="1">
+		 <TEXT STYLE="normalStyle16">Aşezaţi cu ajutorul mouse-ului pictogramele din partea de jos a aplicaţiei pe poziţiile corecte în tabel.</TEXT>
+	  </PARA>	  
+   </SECTION>
+   
+</ROOT> 

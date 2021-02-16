@@ -1,0 +1,146 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyle16grey" COLOR="0x999999" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />   
+   <STYLE NAME="medStyleWhite16" COLOR="0xffffff" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />   
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+  
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="textID1" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle">Lucrul mecanic</TEXT>
+         <FTEXT STYLE="medStyle" SUBSCRIPT="F">L</FTEXT>
+         <TEXT STYLE="medStyle">efectuat de forţa deformatoare</TEXT>
+         <TEXT STYLE="normalStyle">este egal cu</TEXT>		 		 
+		 <IMG OFFSET="-8">formula</IMG> 
+         <TEXT STYLE="normalStyle">, unde</TEXT>		 
+         <TEXT STYLE="medStyle">k este constanta elastică a resortului,</TEXT>
+         <TEXT STYLE="normalStyle">iar</TEXT>
+		 <IMG OFFSET="-10">delta_l</IMG> 		 
+         <TEXT STYLE="medStyle">este alungirea resortului.</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>     
+  
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="comboLabelID" ALIGN="top">
+      <PARA ALIGN="right">
+         <TEXT STYLE="medStyle16">Dinamometru</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   
+    <SECTION ID="attentionLabelID" ALIGN="top">
+      <PARA ALIGN="left">
+         <TEXT STYLE="medStyle16">Dinamometru necorespunzător.</TEXT>
+      </PARA>
+	  
+	  <PARA ALIGN="left">
+         <TEXT STYLE="medStyle16">Utilizaţi alt dinamometru.</TEXT>
+      </PARA>		  	  
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="titluTabel" ALIGN="top" SELECTABLE="false">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyleWhite16">Tabel</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="tabelID" ALIGN="top" SELECTABLE="false">
+      <PARA ALIGN="left">
+         <TEXT STYLE="medStyle16">Tabel</TEXT>       
+      </PARA>	  	  
+   </SECTION>
+   
+   <SECTION ID="graficID" ALIGN="top">
+      <PARA ALIGN="right">
+         <TEXT STYLE="medStyle16">Grafic</TEXT>       
+      </PARA>	  	  
+   </SECTION>
+   <SECTION ID="tabelIDgrey" ALIGN="top" SELECTABLE="false">
+      <PARA ALIGN="left">
+         <TEXT STYLE="medStyle16grey">Tabel</TEXT>       
+      </PARA>	  	  
+   </SECTION>
+   
+   <SECTION ID="graficIDgrey" ALIGN="top">
+      <PARA ALIGN="right">
+         <TEXT STYLE="medStyle16grey">Grafic</TEXT>       
+      </PARA>	  	  
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID1" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Reprezintă grafic forţa deformatoare (greutatea corpurilor de pe taler) ce acţionează asupra resortului, în funcţie de alungirea acestuia.</TEXT>
+	  </PARA>
+	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pentru a rezolva această cerinţă, modifică valoarea forţei deformatoare prin aşezarea greutăţilor marcate pe taler.</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID2" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Lucrul mecanic efectuat de forţa deformatoare este egal cu aria figurii de sub graficul forţei reprezentate in funcţie de alungire.</TEXT>
+	  </PARA>
+	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Care este lucrul mecanic efectuat de forţa deformatoare cea mai mică ?</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID3" ALIGN="top" SPACING="15">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Ce expresie are lucrul mecanic al forţei deformatoare F pentru o deformare a resortului egală cu</TEXT>
+		 <IMG OFFSET="-10">delta_l</IMG> 		 
+         <TEXT STYLE="normalStyle16">?</TEXT>		 
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="corect_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns corect. Continuă.</TEXT>
+	  </PARA>
+   </SECTION>
+
+   <SECTION ID="gresit_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns greşit. Mai incearcă.</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="instructajText" ALIGN="top" TITLE="Instructaj">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Aşezaţi obiectele pe talerul agăţat de resort. Poziţionarea acestora pe taler se face cu ajutorul mouse-ului.</TEXT>
+	  </PARA>
+
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_tabel</IMG>		 
+         <TEXT STYLE="normalStyle16">pentru a vizualiza tabelul şi graficul cu datele înregistrate.</TEXT>		 
+	  </PARA>
+	  
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_reset</IMG>		 
+         <TEXT STYLE="normalStyle16">pentru a reiniţializa aplicaţia.</TEXT>		 
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+</ROOT>

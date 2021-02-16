@@ -1,0 +1,144 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyle16White" COLOR="0xFFFFFF" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />   
+   <STYLE NAME="medStyle16b" COLOR="0xcccccc" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyle12" COLOR="0x75410f" ITALIC="false" BOLD="true" SIZE="12" FONT="FuturaUnicodeMed" />
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   
+      
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="textID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="boldStyle">Definiţii:</TEXT>
+      </PARA>
+	  
+      <PARA ALIGN="justify" TABS="2" BULLET=":1)" BULLETSTYLE="medStyle">
+         <TEXT STYLE="medStyle">Lucrul mecanic L</TEXT>
+         <TEXT STYLE="normalStyle">, efectuat de o forţă constantă, este mărimea fizică scalară egală cu produsul dintre</TEXT>		 
+         <TEXT STYLE="medStyle">forţa F</TEXT>		 
+         <TEXT STYLE="normalStyle">ce acţionează asupra unui corp şi</TEXT>		 		 
+         <TEXT STYLE="medStyle">deplasarea d</TEXT>		 		 
+         <TEXT STYLE="normalStyle">a acestui corp, pe direcţia şi în sensul forţei:</TEXT>		 		 		 
+      </PARA>
+	  
+      <PARA ALIGN="center" TABS="2">
+         <TEXT STYLE="medStyle">L = F · d</TEXT>
+      </PARA>	  
+	  
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle">dacă vectorii</TEXT>
+		 <IMG OFFSET="-6">vect_f</IMG>
+         <TEXT STYLE="normalStyle">şi</TEXT>
+		 <IMG OFFSET="-6">vect_d</IMG>		
+         <TEXT STYLE="normalStyle">au direcţiile paralele şi sunt de acelaşi sens.</TEXT>		  
+      </PARA>	  
+	  
+	  <BLOCK SIZE="10"/>
+	  
+      <PARA ALIGN="justify" TABS="2" BULLET=":2)" BULLETSTYLE="medStyle">
+         <TEXT STYLE="medStyle">Lucrul mecanic L</TEXT>
+         <TEXT STYLE="normalStyle">, efectuat de o forţă constantă, este mărimea fizică scalară egală cu produsul dintre</TEXT>		 
+         <TEXT STYLE="medStyle">forţa F</TEXT>		 
+         <TEXT STYLE="normalStyle">ce acţionează asupra unui corp,</TEXT>		 		 
+         <TEXT STYLE="medStyle">deplasarea d</TEXT>		 		 
+         <TEXT STYLE="normalStyle">a acestui corp şi</TEXT>
+         <TEXT STYLE="medStyle">cosinusul unghiului</TEXT>		 
+		 <IMG OFFSET="-12">alfa</IMG>
+         <TEXT STYLE="normalStyle"> dintre vectorul forţă şi vectorul deplasare:</TEXT>
+      </PARA>
+	  
+      <PARA ALIGN="center" TABS="2">
+         <TEXT STYLE="medStyle">L = F · d · cos</TEXT>
+		 <IMG OFFSET="-12">alfa</IMG>		 
+      </PARA>	  
+
+	  <BLOCK SIZE="10"/>
+	  
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle">Unitatea de măsură:</TEXT>
+         <FTEXT STYLE="medStyle" SUBSCRIPT="SI">[ L ]</FTEXT>		 
+         <TEXT STYLE="medStyle">= J (Joule)</TEXT>
+      </PARA>	  
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="label01" ALIGN="top" SPACING="10">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16White">Forţa de tracţiune (N)</TEXT>
+      </PARA>
+   </SECTION>
+   <SECTION ID="label02" ALIGN="top" SPACING="10">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16White">Deplasarea căruciorului (m)</TEXT>
+      </PARA>
+   </SECTION>
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+  
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">În ce loc să leg sfoara de cărucior astfel încât să îl pot trage cât mai uşor ?</TEXT>
+      </PARA>
+	  
+	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pentru a răspunde la această întrebare, trebuie să trageţi căruciorul de trei ori la rând, câte o dată pentru fiecare poziţie în care se poate prinde sfoara de cărucior.</TEXT>
+      </PARA>
+	  
+	  <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pentru a agăţa sfoara de cărucior, fixaţi forţa F de culoare roşie în poziţia dorită.</TEXT>
+      </PARA>
+   </SECTION>
+  
+  <SECTION ID="helpID2" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Trageţi din nou căruciorul, agăţând sfoara într-o altă poziţie decât cele anterioare.</TEXT>
+      </PARA>
+   </SECTION>
+  
+  <SECTION ID="helpID3" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Căruciorul a fost tras mai uşor atunci când:</TEXT>
+      </PARA>
+      <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">unghiul faţă de orizontală a fost mai mic</TEXT>
+      </PARA>	  
+      <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">unghiul faţă de orizontală a fost mai mare</TEXT>
+      </PARA>
+      <PARA ALIGN="justify" TABS="4">
+         <TEXT STYLE="normalStyle16">unghiul nu a influenţat miscarea</TEXT>
+      </PARA>  
+   </SECTION>
+   
+	<SECTION ID="helpID4" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pentru a caracteriza efortul depus pentru a deplasa căruciorul, s-a definit lucrul mecanic L.</TEXT>
+      </PARA>
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Expresia lucrului mecanic efectuat de o forţă constantă este:</TEXT>
+      </PARA>	  
+   </SECTION>
+      
+  <SECTION ID="helpID5" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Calculaţi lucrul mecanic efectuat de forţa de tracţiune orizontală cu care se acţionează asupra căruciorului, pentru a îl deplasa pe distanţa aleasă.</TEXT>
+      </PARA>
+   </SECTION>
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+	 <SECTION ID="label0" ALIGN="top" SPACING="10">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle12">Start</TEXT>
+      </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+  
+
+</ROOT>

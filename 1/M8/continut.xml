@@ -1,0 +1,174 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyleRed" COLOR="0xCC0000" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />   
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyleWhite16" COLOR="0xFFFFFF" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />   
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   
+   <SECTION ID="textID1" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle">Fiecărei stări mecanice a sistemului fizic în mişcare îi corespunde o energie cinetică. Deci, energia cinetică este o</TEXT>
+		 <TEXT STYLE="medStyle">mărime de stare.</TEXT>		 
+	 </PARA>
+	 <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle">Trecerea sistemului dintr-o stare în alta este caracterizată printr-un lucru mecanic.</TEXT>
+		 <TEXT STYLE="medStyle">Variaţia energiei cinetice între două stări, iniţială şi finală, este egală cu lucrul mecanic al forţei rezultante care produce variaţia respectivă.</TEXT>		 
+      </PARA>
+   </SECTION>
+   
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+  <SECTION ID="helpID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Schiorul din animaţie are masa m = 80 kg; frecarea între schiuri şi zăpadă afânată este foarte mică (neglijabilă).</TEXT>
+      </PARA>
+	  
+      <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Alege un punct de plecare (A, B, C) şi, în decursul coborârii pe pârtie, până la linia de sosire, calculează lucrul mecanic al greutăţii.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID2" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Măsoară viteza schiorului când acesta atinge linia de sosire. Ce observi ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">viteza creşte cu creşterea înălţimii de la care coboară schiorul</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">viteza este aceeaşi, indiferent de înălţimea de la care coboară schiorul</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">viteza scade cu creşterea înălţimii de la care coboară schiorul</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID3" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Calculează energia cinetică a schiorului, la atingerea liniei de sosire, conform relaţiei cunoscute</TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="c">E</FTEXT>
+		 <TEXT STYLE="normalStyle16">= m</TEXT>
+		 <FTEXT STYLE="normalStyle16" SUPERSCRIPT="2">v</FTEXT>
+		 <TEXT STYLE="normalStyle16">/ 2. Ce observi ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">Energia cinetică în punctul de sosire, este egală cu lucrul mecanic al greutăţii</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">Energia cinetică în punctul de sosire, este mai mică decât lucrul mecanic al greutăţii</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">Energia cinetică în punctul de sosire, este mai mare decât lucrul mecanic al greutăţii</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID4" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Care a fost energia cinetică a schiorului în punctul de plecare ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">Zero.</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">Diferită de zero.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID5" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Compară variaţia energiei cinetice cu lucrul mecanic al greutăţii. Vei constata că :</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16" TABS="4">Sunt egale în modul.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID6" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Reia aplicaţia pentru un coeficient de frecare mic (0,1). Calculează lucrul mecanic al forţei de frecare, aproximând pârtia cu un plan înclinat la 45°.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID7" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Măsoară viteza schiorului când acesta atinge linia de sosire. Cum este această viteză faţă de viteza calculată în absenţa frecării ?</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">Mai mică.</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">Mai mare.</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">Egală.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID8" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Urmărind rezultatele din tabel, vei constata că :</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">Variaţia energiei cinetice a corpului, este egală cu lucrul mecanic al greutăţii.</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">Variaţia energiei cinetice a corpului, este egală cu lucrul mecanic al forţei de frecare.</TEXT>
+      </PARA>
+	  <PARA ALIGN="justify" TABS="2">
+		 <TEXT STYLE="normalStyle16">Variaţia energiei cinetice a corpului, este egală cu lucrul mecanic al forţei rezultante ce acţionează asupra corpului.</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="helpID9" ALIGN="top" SPACING="10">
+     <PARA ALIGN="justify">
+		 <TEXT STYLE="medStyle16">Concluzie :</TEXT>
+		 <TEXT STYLE="normalStyle16">Fiecărei stări mecanice a sitemului fizic în mişcare îi corespunde o energie cinetică, deci energia cinetică este o mărime de stare.</TEXT>
+	 </PARA>
+	 <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle16">Trecerea sistemului dintr-o stare în alta, este caracterizată printr-un lucru mecanic. Variaţia energieicinetice între două stări, iniţială şi finală, este egală cu lucrul mecanic al forţei rezultante care produce variaţia respectivă.</TEXT>
+      </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="titluTabel" ALIGN="top">
+      <PARA ALIGN="left">
+         <TEXT STYLE="medStyleWhite16">Tabel</TEXT>
+      </PARA>	  	  
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="corect_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns corect. Continuă.</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+	
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="gresit_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns greşit. Mai incearcă.</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <SECTION ID="instructajText" ALIGN="top" TITLE="Instructaj">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Urmăriţi instrucţiunile date de asistent şi răspundeţi la întrebări. Pentru a trece de la un pas la altul al aplicaţiei apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btnplay</IMG>
+         <TEXT STYLE="normalStyle16">.</TEXT>
+	  </PARA>
+
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_reset</IMG>		 
+         <TEXT STYLE="normalStyle16">pentru a reiniţializa aplicaţia.</TEXT>		 
+	  </PARA>
+   </SECTION>
+</ROOT>

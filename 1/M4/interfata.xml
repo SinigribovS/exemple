@@ -1,0 +1,25 @@
+﻿<ROOT label="ROOT">
+   <STYLE NAME="titleStyle" COLOR="0xFFFFFF" ITALIC="false" BOLD="true" SIZE="20" FONT="FuturaUnicode" />
+   <STYLE NAME="subtitleStyle" COLOR="0x000000" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />   
+   <STYLE NAME="classStyle" COLOR="0x000000" ITALIC="false" BOLD="true" SIZE="25" FONT="FuturaUnicode" />
+   <STYLE NAME="lineStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="26" FONT="FuturaUnicode" />   
+   
+   <SECTION ID="title">
+      <PARA ALIGN="left">
+         <TEXT STYLE="titleStyle">Lucrul mecanic şi energia mecanică</TEXT>
+      </PARA>
+   </SECTION>
+
+   <SECTION ID="subtitle">
+      <PARA ALIGN="left">
+         <TEXT STYLE="subtitleStyle">Lucrul mecanic al forţei deformatoare</TEXT>
+      </PARA>
+   </SECTION>
+   
+   <SECTION ID="classname">
+      <PARA ALIGN="left" SELECTABLE="false">
+         <TEXT STYLE="classStyle">fizică</TEXT>
+         <TEXT STYLE="lineStyle">  |</TEXT>
+      </PARA>
+   </SECTION> 
+</ROOT>

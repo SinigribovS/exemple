@@ -1,0 +1,130 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="textID1" ALIGN="top" SPACING="0">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle">Fiecărei stări mecanice a unui corp, caracterizată printr-o anumită viteză, îi corespunde o anumită energie cinetică.</TEXT>
+	  </PARA>
+		 
+      <PARA ALIGN="justify">
+		 <TEXT STYLE="medStyle">Energia cinetică </TEXT>
+		 <TEXT STYLE="normalStyle">a unui corp este proporţională cu pătratul vitezei lui faţă de un sistem de referinţă şi cu masa corpului:</TEXT>
+	  	<IMG OFFSET="-2">formula</IMG>
+	  </PARA>
+	  
+      <PARA ALIGN="justify">
+		 <TEXT STYLE="normalStyle">Pentru aplicaţia de dedesubt, distanţa de oprire a vehicolului se calculează după formula:</TEXT>
+	  	 <IMG>sop</IMG>
+		 <TEXT STYLE="normalStyle">, unde</TEXT>		
+		 <FTEXT STYLE="medStyle" SUBSTRING="0">v</FTEXT>
+		 <TEXT STYLE="normalStyle">este viteza vehicolului,</TEXT>				 
+	  	 <IMG OFFSET="-10">miu</IMG>		 
+		 <TEXT STYLE="normalStyle">este coeficientul de frecare, iar</TEXT>				 		 
+		 <FTEXT STYLE="medStyle">g</FTEXT>		 
+		 <TEXT STYLE="normalStyle">este acceleraţia gravitaţională.</TEXT>
+	  </PARA>
+   </SECTION>      
+
+   <SECTION ID="helpID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Maşina din animaţie se deplasează cu o viteză </TEXT>
+		 <FTEXT STYLE="normalStyle16" SUBSCRIPT="0">v</FTEXT>
+		 <TEXT STYLE="normalStyle16">. La un moment dat, în faţa ei apare un căţel, şi şoferul frâneaza brusc. De cine credeţi că va depinde spaţiul de frânare?</TEXT>
+	  </PARA>   
+    <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">De viteză</TEXT>
+      </PARA>
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">De aderenţă</TEXT>
+      </PARA>
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">De încărcătura (masa) maşinii</TEXT>
+      </PARA>
+   </SECTION>      
+
+   <SECTION ID="helpID2" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Pentru diferite valori ale vitezei maşinii măsoară distanţele de frânare şi completează tabelul.</TEXT>
+      </PARA>
+   </SECTION>
+
+   <SECTION ID="helpID3" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Cum depinde distanţa de frânare de viteza maşinii?</TEXT>
+      </PARA>		 
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">Creşte cu creşterea vitezei</TEXT>
+      </PARA>
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">Creşte cu pătratul vitezei</TEXT>
+      </PARA>
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">Scade cu creşterea vitezei</TEXT>
+      </PARA>
+   </SECTION>      
+   
+
+   <SECTION ID="helpID4" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Cum depinde distanţa de frânare a maşinii de energia cinetică pe care a avut-o imediat înainte de frânare?</TEXT>
+      </PARA>
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">Proporţional</TEXT>
+      </PARA>
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">Invers proporţional</TEXT>
+      </PARA>
+   </SECTION>     
+
+   <SECTION ID="titluTabel" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Tabel</TEXT>
+	  </PARA>
+   </SECTION>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="corect_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns corect. Continuă.</TEXT>
+	  </PARA>
+   </SECTION>
+
+   <SECTION ID="gresit_text" ALIGN="top" SPACING="20">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle16">Ai răspuns greşit. Mai incearcă.</TEXT>
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="instructajText" ALIGN="top" TITLE="Instructaj">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Urmăriţi instrucţiunile date de asistent şi răspundeţi la întrebări. Pentru a trece de la un pas la altul al aplicaţiei apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_next</IMG>
+         <TEXT STYLE="normalStyle16">. Apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_tabel</IMG>		 
+         <TEXT STYLE="normalStyle16">pentru a vizualiza tabelul corespunzător aplicaţiei.</TEXT>		 
+	  </PARA>
+
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_undo</IMG>		 
+         <TEXT STYLE="normalStyle16">pentru a reiniţializa pasul curent.</TEXT>		 
+	  </PARA>
+	  
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Apăsaţi butonul</TEXT>
+		 <IMG OFFSET="-6">btn_reset</IMG>		 
+         <TEXT STYLE="normalStyle16">pentru a reiniţializa aplicaţia.</TEXT>		 
+	  </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+</ROOT>

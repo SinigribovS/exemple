@@ -1,0 +1,30 @@
+﻿<ROOT>
+
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="medStyle16b" COLOR="0xcccccc" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   
+      
+   <!------------------------------------------------------------------------------------------------------------------------------------>  
+   <SECTION ID="textID1" ALIGN="top" SPACING="10">
+      <PARA ALIGN="justify">
+ 
+      </PARA>
+   </SECTION>
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+  
+   <!------------------------------------------------------------------------------------------------------------------------------------>
+   <SECTION ID="helpID1" ALIGN="center" SPACING="10">
+	  <PARA ALIGN="center">
+         <TEXT STYLE="normalStyle16">De ce credeţi că este posibilă rotirea palelor roţii sub acţiunea apei ? Cine pune roata în mişcare ?</TEXT>
+      </PARA>
+   </SECTION>
+  <!------------------------------------------------------------------------------------------------------------------------------------>
+  
+
+</ROOT>

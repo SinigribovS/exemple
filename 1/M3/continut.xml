@@ -1,0 +1,126 @@
+﻿<ROOT>
+     
+   <STYLE NAME="normalStyle" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="boldStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle" COLOR="0x1C2E6F" ITALIC="false" BOLD="true" SIZE="18" FONT="FuturaUnicodeMed" />
+   <STYLE NAME="normalStyle16" COLOR="0x000000" ITALIC="false" BOLD="false" SIZE="16" FONT="FuturaUnicode" />
+   <STYLE NAME="medStyle16" COLOR="0x1c2e6f" ITALIC="false" BOLD="true" SIZE="16" FONT="FuturaUnicodeMed" />
+     
+   
+   <SECTION ID="textID1" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="medStyle">Lucrul mecanic</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="G">L</FTEXT>
+		 <TEXT STYLE="medStyle">efectuat de forţa de greutate</TEXT>
+		 <TEXT STYLE="normalStyle">asupra unui corp ce coboară este egal cu produsul dintre masa corpului m, acceleraţia gravitaţională g şi înălţimea h de la care coboară corpul:</TEXT>
+		 <FTEXT STYLE="medStyle" SUBSCRIPT="G">L</FTEXT>
+		 <TEXT STYLE="medStyle">= mgh.</TEXT>
+      </PARA>		
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle">Lucrul mecanic</TEXT>
+		 <FTEXT STYLE="normalStyle" SUBSCRIPT="G">L</FTEXT>
+	     <TEXT STYLE="normalStyle">nu depinde de drumul parcurs, ci doar de poziţia iniţială şi poziţia finală a corpului.</TEXT>
+      </PARA>		  
+   </SECTION> 
+
+   <SECTION ID="textID2" ALIGN="center">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle16">Selectaţi unul dintre cele trei tobogane şi daţi drumul ambelor bile pe toboganul ales.\nSe presupune că bilele alunecă pe tobogan fără frecare.</TEXT>
+      </PARA>		
+   </SECTION> 
+   
+   <SECTION ID="helpID1" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Ce se va întâmpla cu bilele lăsate libere pe tobogan?</TEXT>
+      </PARA>		
+   </SECTION> 
+   <SECTION ID="helpID2" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Bilele vor coborî pe tobogan datorită acţiunii:</TEXT>
+      </PARA>		
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">forţei de greutate</TEXT>
+      </PARA>			
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">normalei</TEXT>
+      </PARA>	
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">forţei de frecare</TEXT>
+      </PARA>		  	    
+   </SECTION>    
+   <SECTION ID="helpID3" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Lasă să coboare liber pe un tobogan bile de mase diferite. Care dintre bile s-a afundat mai mult în nisip?</TEXT>
+      </PARA>		
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">bila cu masă mai mică</TEXT>
+      </PARA>			
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">bila cu masă mai mare</TEXT>
+      </PARA>	
+   </SECTION>       
+   <SECTION ID="helpID4" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">În concluzie, se poate spune că lucrul mecanic efectuat de greutate este direct proporţional cu greutatea corpului.</TEXT>
+      </PARA>		
+   </SECTION>
+
+   <SECTION ID="helpID5" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Lasă să coboare pe tobogane o bilă de la înălţimi diferite. În ce situaţie bila se va afunda mai mult în nisip?</TEXT>
+      </PARA>		
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">atunci când înălţimea toboganului este mai mare</TEXT>
+      </PARA>			
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">atunci când înălţimea toboganului este mai mică</TEXT>
+      </PARA>	
+      <PARA ALIGN="justify" TABS="2">
+         <TEXT STYLE="normalStyle16">atunci când toboganul este mai abrupt</TEXT>
+      </PARA>	  
+   </SECTION>    
+
+   <SECTION ID="helpID6" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">În concluzie, putem spune că lucrul mecanic efectuat de greutate este direct proporţional cu înălţimea pe care se deplasează corpul.</TEXT>
+      </PARA>		
+   </SECTION>
+   <SECTION ID="helpID7" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">Lucrul mecanic efectuat de greutate depinde oare de forma drumului parcurs de corp? Pentru a răspunde la această întrebare, lasă să coboare liberă o bilă, de la aceeaşi înălţime, dar pe tobogane diferite.</TEXT>
+      </PARA>		
+   </SECTION>   
+   <SECTION ID="helpID8" ALIGN="top">
+      <PARA ALIGN="justify">
+         <TEXT STYLE="normalStyle16">În concluzie, putem spune că lucrul mecanic efectuat de greutate nu depinde de drumul parcurs de corp, ci doar de greutatea corpului şi de înălţimea de la care corpul coboară.</TEXT>
+      </PARA>		
+   </SECTION>   
+   <SECTION ID="tobogan1" ALIGN="top">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle">Tobogan 1</TEXT>
+      </PARA>		
+   </SECTION>     
+   <SECTION ID="tobogan2" ALIGN="top">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle">Tobogan 2</TEXT>
+      </PARA>		
+   </SECTION>       
+   <SECTION ID="tobogan3" ALIGN="top">
+      <PARA ALIGN="center">
+         <TEXT STYLE="medStyle">Tobogan 3</TEXT>
+      </PARA>		
+   </SECTION>      
+
+   <SECTION ID="raspunsCorect" ALIGN="top">
+      <PARA ALIGN="left">
+         <TEXT STYLE="medStyle16">Ai răspuns corect. Continuă.</TEXT>
+      </PARA>	  	  
+   </SECTION>   
+   
+    <SECTION ID="raspunsGresit" ALIGN="top">
+      <PARA ALIGN="left">
+         <TEXT STYLE="medStyle16">Ai răspuns greşit. Mai incearcă.</TEXT>
+      </PARA>	  	  
+   </SECTION> 
+
+</ROOT> 
